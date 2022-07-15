@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://dmcstravick7.github.io/dmcstravick7.github.io/sitemap.xml
